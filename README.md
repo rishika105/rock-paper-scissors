@@ -10,12 +10,11 @@
 
 ## Play the Game
 
-- You can either run the game by opening `index.html` in your browser.
-- Or play the deployed version at: [Rock, Paper, Scissors Game](https://rock-paper-scissors-game-rishika-2005.netlify.app/).
+- If you want you can run the code and open `index.html` in your browser Or play the deployed version at: [Rock, Paper, Scissors Game](https://rock-paper-scissors-game-rishika-2005.netlify.app/).
 
 ## Screenshot
 
-![Rock, Paper, Scissors Game](screenshot.png)
+![image](https://github.com/user-attachments/assets/8b5d4633-e2d1-43dd-971a-d0614774966b)
 
 ## Technologies
 
